@@ -10,6 +10,7 @@ Hi 👋 I'm Wasil, a CS student focused on Flutter app development and learning 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ## 📚 Currently Learning
+- AI Engineering (Python, Typecript, C++)
 - Flutter (advanced UI & state management)
 - App architecture & clean code
 - Unreal Engine (basic game mechanics)
