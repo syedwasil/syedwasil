@@ -89,6 +89,4 @@ I keep a public GitHub to show how I actually write code. Clean structure, real 
 
 <br/>
 
-<div align="center">
-  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=syedwasil&icon=0&color=5&title_color=ffffff" alt="Profile Views" /></a>
-</div>
+
